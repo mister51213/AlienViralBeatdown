@@ -390,3 +390,248 @@ LogInit: Object subsystem initialized
 [2018.01.27-08.55.07:848][528]LogRenderer: Reallocating scene render targets to support 1376x736 Format 10 NumSamples 1 (Frame:29).
 [2018.01.27-08.55.16:952][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.01.27-08.55.17:021][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.00.40:914][765]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.00.40:941][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.00.40:942][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.00.40:942][765]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:00:40 AM)
+[2018.01.27-09.00.40:942][765]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.00.40:965][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022455s)
+[2018.01.27-09.00.40:965][765]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.00.40:966][765]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2018.01.27-09.00.40:966][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.023935s)
+[2018.01.27-09.00.41:002][765]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.00.41:013][765]LogInit: FAudioDevice initialized.
+[2018.01.27-09.00.41:042][765]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.00.41:045][765]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.00.41
+[2018.01.27-09.00.41:045][765]LogWorld: Bringing up level for play took: 0.002281
+[2018.01.27-09.00.41:046][765]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.075
+[2018.01.27-09.00.41:047][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.00.42:654][860]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-09.00.47:652][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.00.47:722][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.04.35:958][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_CharacterSprite" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/FB_CharacterSprite.uasset" SILENT=true
+[2018.01.27-09.04.35:964][892]LogSavePackage: Save=4.13ms
+[2018.01.27-09.04.35:964][892]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/FB_CharacterSpriteA6D4937D49B1CE90F7AF2F9FD3698292.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/FB_CharacterSprite.uasset'
+[2018.01.27-09.04.35:965][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/FB_CharacterSprite.uasset
+[2018.01.27-09.04.37:236][957]LogRenderer: Reallocating scene render targets to support 1624x736 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-09.07.05:681][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)0.png)
+[2018.01.27-09.07.05:691][421]LogTexture: Display: Building textures: Turret_Base__AVB_0 (AutoDXT, 128X128)
+[2018.01.27-09.07.05:704][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)1.png)
+[2018.01.27-09.07.05:710][421]LogTexture: Display: Building textures: Turret_Base__AVB_1 (AutoDXT, 128X128)
+[2018.01.27-09.07.05:723][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)2.png)
+[2018.01.27-09.07.05:729][421]LogTexture: Display: Building textures: Turret_Base__AVB_2 (AutoDXT, 128X128)
+[2018.01.27-09.07.05:740][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)3.png)
+[2018.01.27-09.07.05:748][421]LogTexture: Display: Building textures: Turret_Base__AVB_3 (AutoDXT, 128X128)
+[2018.01.27-09.07.05:763][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)4.png)
+[2018.01.27-09.07.05:769][421]LogTexture: Display: Building textures: Turret_Base__AVB_4 (AutoDXT, 128X128)
+[2018.01.27-09.07.05:782][421]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/Turret Base (AVB)5.png)
+[2018.01.27-09.07.05:788][421]LogTexture: Display: Building textures: Turret_Base__AVB_5 (AutoDXT, 128X128)
+[2018.01.27-09.07.07:884][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_0" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_0.uasset" SILENT=true
+[2018.01.27-09.07.07:888][534]LogSavePackage: Save=2.75ms
+[2018.01.27-09.07.07:888][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_0CA3AB1F34023D439562794A33870B467.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_0.uasset'
+[2018.01.27-09.07.07:889][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_0.uasset
+[2018.01.27-09.07.07:895][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_1" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_1.uasset" SILENT=true
+[2018.01.27-09.07.07:899][534]LogSavePackage: Save=2.78ms
+[2018.01.27-09.07.07:899][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_18E0D728C4C8BE3443C50FE87020604BA.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_1.uasset'
+[2018.01.27-09.07.07:900][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_1.uasset
+[2018.01.27-09.07.07:905][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_2" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_2.uasset" SILENT=true
+[2018.01.27-09.07.07:909][534]LogSavePackage: Save=2.92ms
+[2018.01.27-09.07.07:909][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_24E32E997441CECDF03E403B1C5FFE90B.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_2.uasset'
+[2018.01.27-09.07.07:911][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_2.uasset
+[2018.01.27-09.07.07:917][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_3" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_3.uasset" SILENT=true
+[2018.01.27-09.07.07:920][534]LogSavePackage: Save=2.65ms
+[2018.01.27-09.07.07:920][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_33BB5057E410285274731AEBA9FCAF4B3.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_3.uasset'
+[2018.01.27-09.07.07:921][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_3.uasset
+[2018.01.27-09.07.07:926][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_4" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_4.uasset" SILENT=true
+[2018.01.27-09.07.07:930][534]LogSavePackage: Save=2.94ms
+[2018.01.27-09.07.07:930][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_4439C568440C783C8EB2EFF8FA8FD7646.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_4.uasset'
+[2018.01.27-09.07.07:931][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_4.uasset
+[2018.01.27-09.07.07:939][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/Turret_Base__AVB_5" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_5.uasset" SILENT=true
+[2018.01.27-09.07.07:943][534]LogSavePackage: Save=3.04ms
+[2018.01.27-09.07.07:943][534]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_5EE7ACCC54D54BF34EB574387AF0000DE.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_5.uasset'
+[2018.01.27-09.07.07:944][534]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_5.uasset
+[2018.01.27-09.07.58:947][958]LogSavePackage: Save=5.54ms
+[2018.01.27-09.07.58:947][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_0_Sprite042611C54F3A44B402E56E8984AD54E1.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_0_Sprite.uasset'
+[2018.01.27-09.07.58:948][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_0_Sprite.uasset
+[2018.01.27-09.07.58:967][958]LogSavePackage: Save=5.25ms
+[2018.01.27-09.07.58:967][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_1_Sprite3E441C6C46202123246A5D9A416BF3F8.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_1_Sprite.uasset'
+[2018.01.27-09.07.58:969][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_1_Sprite.uasset
+[2018.01.27-09.07.58:986][958]LogSavePackage: Save=5.24ms
+[2018.01.27-09.07.58:986][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_2_SpriteD862760942C7E37021038E85651FC951.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_2_Sprite.uasset'
+[2018.01.27-09.07.58:987][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_2_Sprite.uasset
+[2018.01.27-09.07.59:004][958]LogSavePackage: Save=5.27ms
+[2018.01.27-09.07.59:004][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_3_Sprite527CD30845A51912CD736CBC01DD0CE0.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_3_Sprite.uasset'
+[2018.01.27-09.07.59:005][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_3_Sprite.uasset
+[2018.01.27-09.07.59:022][958]LogSavePackage: Save=5.30ms
+[2018.01.27-09.07.59:022][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_4_Sprite041B10CD4989A0EF0D92F88D22252337.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_4_Sprite.uasset'
+[2018.01.27-09.07.59:023][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_4_Sprite.uasset
+[2018.01.27-09.07.59:040][958]LogSavePackage: Save=4.99ms
+[2018.01.27-09.07.59:040][958]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/Turret_Base__AVB_5_Sprite0680294A4331BC89678430B4FE575987.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_5_Sprite.uasset'
+[2018.01.27-09.07.59:041][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/Turret_Base__AVB_5_Sprite.uasset
+[2018.01.27-09.08.14:280][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Enemy/FB_Turret" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/FB_Turret.uasset" SILENT=true
+[2018.01.27-09.08.14:286][854]LogSavePackage: Save=4.98ms
+[2018.01.27-09.08.14:286][854]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/FB_Turret1C5323D74596ACE64E421AA136FDB7EB.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/FB_Turret.uasset'
+[2018.01.27-09.08.14:287][854]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Enemy/FB_Turret.uasset
+[2018.01.27-09.10.55:523][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/AVB_Player0.png)
+[2018.01.27-09.10.55:530][767]LogTexture: Display: Building textures: AVB_Player0 (AutoDXT, 64X64)
+[2018.01.27-09.10.55:546][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/AVB_Player1.png)
+[2018.01.27-09.10.55:549][767]LogTexture: Display: Building textures: AVB_Player1 (AutoDXT, 64X64)
+[2018.01.27-09.10.55:562][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/n/Desktop/AVB_Graphics/AVB_Player2.png)
+[2018.01.27-09.10.55:565][767]LogTexture: Display: Building textures: AVB_Player2 (AutoDXT, 64X64)
+[2018.01.27-09.11.02:006][145]LogMaterial: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2018.01.27-09.11.02:988][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player0_Sprite" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0_Sprite.uasset" SILENT=true
+[2018.01.27-09.11.03:001][196]LogSavePackage: Save=11.24ms
+[2018.01.27-09.11.03:001][196]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player0_SpriteBDA9F3B64F0D3E23A515C69559F7A7E0.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0_Sprite.uasset'
+[2018.01.27-09.11.03:002][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0_Sprite.uasset
+[2018.01.27-09.11.03:014][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player1_Sprite" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1_Sprite.uasset" SILENT=true
+[2018.01.27-09.11.03:023][196]LogSavePackage: Save=8.01ms
+[2018.01.27-09.11.03:023][196]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player1_Sprite5C16ED17436A03D2D3662586BB6BF88D.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1_Sprite.uasset'
+[2018.01.27-09.11.03:024][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1_Sprite.uasset
+[2018.01.27-09.11.03:037][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player2_Sprite" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2_Sprite.uasset" SILENT=true
+[2018.01.27-09.11.03:048][196]LogSavePackage: Save=9.70ms
+[2018.01.27-09.11.03:048][196]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player2_Sprite1577F4F242D9C3C2DB294C819FF0D6EF.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2_Sprite.uasset'
+[2018.01.27-09.11.03:050][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2_Sprite.uasset
+[2018.01.27-09.11.05:793][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player2" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2.uasset" SILENT=true
+[2018.01.27-09.11.05:797][355]LogSavePackage: Save=2.58ms
+[2018.01.27-09.11.05:797][355]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player203C6D86945746181D6A6AB9290B763FE.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2.uasset'
+[2018.01.27-09.11.05:798][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player2.uasset
+[2018.01.27-09.11.05:803][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player1" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1.uasset" SILENT=true
+[2018.01.27-09.11.05:806][355]LogSavePackage: Save=2.91ms
+[2018.01.27-09.11.05:807][355]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player1E547F86346FF82082B2885996F231F66.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1.uasset'
+[2018.01.27-09.11.05:808][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player1.uasset
+[2018.01.27-09.11.05:813][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/AVB_Player0" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0.uasset" SILENT=true
+[2018.01.27-09.11.05:817][355]LogSavePackage: Save=3.00ms
+[2018.01.27-09.11.05:817][355]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/AVB_Player04F651DDF4FF04A4A2E5BBBA1407F6443.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0.uasset'
+[2018.01.27-09.11.05:819][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/AVB_Player0.uasset
+[2018.01.27-09.11.26:594][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprites/Character/FB_PlayerCharacter" FILE="../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/FB_PlayerCharacter.uasset" SILENT=true
+[2018.01.27-09.11.26:604][587]LogSavePackage: Save=8.35ms
+[2018.01.27-09.11.26:604][587]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/FB_PlayerCharacter75772519470F114EB811DD809BF88A11.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/FB_PlayerCharacter.uasset'
+[2018.01.27-09.11.26:605][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/Sprites/Character/FB_PlayerCharacter.uasset
+[2018.01.27-09.12.22:079][823]BlueprintLog: New page: Compile TopDownCharacter_Sprite
+[2018.01.27-09.12.23:428][869]LogSavePackage: Save=69.90ms
+[2018.01.27-09.12.23:428][869]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacter_Sprite3A790ABC49D6BAC5A6A813B63A5326CF.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter_Sprite.uasset'
+[2018.01.27-09.12.23:429][869]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter_Sprite.uasset
+[2018.01.27-09.13.03:675][223]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.13.05:037][248]LogSavePackage: Save=116.31ms
+[2018.01.27-09.13.05:037][248]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacter3F6CFE6A49347A2160ED3B875F514033.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.13.05:039][248]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.13.46:664][724]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.13.47:778][736]LogSavePackage: Save=116.87ms
+[2018.01.27-09.13.47:778][736]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacterDCB04342418C71B848E6E59F240CF700.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.13.47:780][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.14.06:294][830]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.14.07:477][853]LogSavePackage: Save=116.46ms
+[2018.01.27-09.14.07:477][853]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacterC8BCF4D5441AC70CC66DCC8504B5A830.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.14.07:479][853]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.14.16:489][389]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.14.17:696][411]LogSavePackage: Save=116.12ms
+[2018.01.27-09.14.17:696][411]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacter6BA3CCE44C8366B5C0CE648EA9CC0A1D.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.14.17:698][411]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.14.55:883][638]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.14.57:000][653]LogSavePackage: Save=114.40ms
+[2018.01.27-09.14.57:000][653]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacterE2AAA63245FB7B82399E41BEDC8864AF.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.14.57:002][653]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.14.58:619][750]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.14.58:664][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.14.58:664][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.14.58:664][750]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:14:58 AM)
+[2018.01.27-09.14.58:665][750]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.14.58:691][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026063s)
+[2018.01.27-09.14.58:692][750]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.14.58:692][750]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.01.27-09.14.58:692][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027423s)
+[2018.01.27-09.14.58:730][750]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.14.58:744][750]LogInit: FAudioDevice initialized.
+[2018.01.27-09.14.58:775][750]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.14.58:778][750]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.14.58
+[2018.01.27-09.14.58:779][750]LogWorld: Bringing up level for play took: 0.002608
+[2018.01.27-09.14.58:780][750]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.809
+[2018.01.27-09.14.58:780][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.01:833][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.01:875][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.12:930][579]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.27-09.15.34:810][854]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.15.36:035][877]LogSavePackage: Save=103.04ms
+[2018.01.27-09.15.36:035][877]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacter783773034D0CB6068B9A708A5630D08F.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.15.36:036][877]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.15.39:368][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.15.39:403][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.39:403][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.15.39:403][ 70]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:15:39 AM)
+[2018.01.27-09.15.39:404][ 70]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.15.39:427][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023907s)
+[2018.01.27-09.15.39:429][ 70]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.15.39:429][ 70]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2018.01.27-09.15.39:429][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025703s)
+[2018.01.27-09.15.39:465][ 70]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.15.39:479][ 70]LogInit: FAudioDevice initialized.
+[2018.01.27-09.15.39:508][ 70]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.15.39:511][ 70]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.15.39
+[2018.01.27-09.15.39:511][ 70]LogWorld: Bringing up level for play took: 0.002523
+[2018.01.27-09.15.39:512][ 70]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.459
+[2018.01.27-09.15.39:513][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.48:212][590]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.15.48:253][590]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.16.30:388][ 53]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.16.31:308][ 64]LogSavePackage: Save=107.37ms
+[2018.01.27-09.16.31:308][ 64]LogSavePackage: Moving '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Saved/TopDownCharacter46945513470C72D9D9D3339DA6A25EAC.tmp' to '../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.01.27-09.16.31:310][ 64]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/n/Documents/AVB/AlienViralBeatdown/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.01.27-09.16.33:871][217]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.16.33:922][217]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.16.33:922][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.16.33:922][217]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:16:33 AM)
+[2018.01.27-09.16.33:923][217]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.16.33:949][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026052s)
+[2018.01.27-09.16.33:950][217]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.16.33:950][217]LogPlayLevel: PIE: World Init took: (0.001200s)
+[2018.01.27-09.16.33:950][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.027705s)
+[2018.01.27-09.16.33:986][217]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.16.33:999][217]LogInit: FAudioDevice initialized.
+[2018.01.27-09.16.34:029][217]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.16.34:031][217]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.16.34
+[2018.01.27-09.16.34:032][217]LogWorld: Bringing up level for play took: 0.002365
+[2018.01.27-09.16.34:033][217]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.062
+[2018.01.27-09.16.34:033][217]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.16.35:800][316]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-09.16.42:787][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.16.42:854][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.16.52:243][270]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.27-09.17.00:610][754]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.17.02:863][853]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.17.02:910][853]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.02:910][853]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.17.02:910][853]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:17:02 AM)
+[2018.01.27-09.17.02:910][853]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.17.02:935][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024754s)
+[2018.01.27-09.17.02:936][853]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.17.02:936][853]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2018.01.27-09.17.02:936][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.025936s)
+[2018.01.27-09.17.02:972][853]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.17.02:985][853]LogInit: FAudioDevice initialized.
+[2018.01.27-09.17.03:018][853]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.17.03:021][853]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.17.03
+[2018.01.27-09.17.03:022][853]LogWorld: Bringing up level for play took: 0.002486
+[2018.01.27-09.17.03:023][853]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.052
+[2018.01.27-09.17.03:023][853]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.05:226][983]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.05:264][983]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.14:035][489]BlueprintLog: New page: Compile TopDownCharacter
+[2018.01.27-09.17.16:295][589]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.17.16:343][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.16:343][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.17.16:343][589]PIE: New page: PIE session: TopDownExampleMap (Jan 28, 2018, 1:17:16 AM)
+[2018.01.27-09.17.16:343][589]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.01.27-09.17.16:363][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020062s)
+[2018.01.27-09.17.16:364][589]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-09.17.16:365][589]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.01.27-09.17.16:365][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.021557s)
+[2018.01.27-09.17.16:400][589]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.17.16:413][589]LogInit: FAudioDevice initialized.
+[2018.01.27-09.17.16:442][589]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.01.27-09.17.16:446][589]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.01.27-17.17.16
+[2018.01.27-09.17.16:446][589]LogWorld: Bringing up level for play took: 0.002393
+[2018.01.27-09.17.16:447][589]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.476
+[2018.01.27-09.17.16:447][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.17:862][672]Cmd: LevelEditor.ToggleImmersive
+[2018.01.27-09.17.48:300][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.01.27-09.17.48:368][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
