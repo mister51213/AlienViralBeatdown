@@ -1,2 +1,3 @@
 /Intermediate/AssetRegistryCache/*.bin
-/Intermediate/*.bin
+/Intermediate/
+/Saved/
